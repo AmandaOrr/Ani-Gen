@@ -1,0 +1,64 @@
+{
+    "media": [
+        {
+            "title": "Cowboy Bebop",
+            "year": "1998",
+            "description": "3 Bounty hunters with difficult pasts' travel the galaxy just trying to make enough woolongs to get some beef and bell peppers.",
+            "image": "src/assets/beebop.png" 
+        },
+        {
+            "title": "Howl's Moving Castle",
+            "year": "2004",
+            "description": "Howl has been searching for Sophie their entire lives. How Far will they go for the people they love, and calcifer makes a bomb breakfast",
+            "image": "src/assets/howsCastle.png"
+        },
+        {
+            "title": "Jujutsu Kaisen",
+             "year": "2018",
+             "description": "This Kids got a weird taste for fingers dude, also whats up with the glasses?",
+             "image": "src/assets/jujutsu.png"
+        },
+        {
+            "title": "Evangelion",
+            "year": "1995",
+             "description": "It gets dark......really dark. But the end of the world isnt all fun an games when you have to run a giant mecha and your dad is a jerk",
+            "image": "src/assets/evangelion.png"
+        },
+        {
+            "title": "JoJo's Bizarre Adventures",
+             "year": "2012",
+             "description": "Something about a vampire and a mask, but they keep running into each other. And a lot of posing......",
+             "image": "src/assets/jojos.png"
+        },
+        {
+            "title": "Hell's Paradise",
+             "year": "2023",
+             "description": "Is it a normal island, or a cool island. Neither, its the afterlife. Our protaganists search for the Elixir of Life and have to deal with a very 'Last of Us' type situation.",
+             "image": "src/assets/hellsParadise.png"
+        },
+        {
+            "title": "Fairytale",
+             "year": "2009",
+             "description": "Guild's, adventures, and danger, will you join?",
+             "image": "src/assets/fairytale.png"
+        },
+        {
+            "title": "Demon Slayer",
+             "year": "2016",
+             "description": "Michael Jackson just wants to be able to moon walk in the sun, Tanjiro wont let that happen, not in this lifetime.",
+             "image": "src/assets/demonSlayer.png"
+        },
+        {
+            "title": "Hunter X Hunter",
+             "year": "2011",
+             "description": "Determined to become the greatest hunter of all, there is a lot of running to get there though",
+             "image": "src/assets/hunter.png"
+        },
+        {
+            "title": "Sword Art Online",
+             "year": "2012",
+             "description": "Being stuck inside a MMORPG cant be that bad, unless you actually die in game....oh wait....",
+             "image": "src/assets/sao.png"
+        }
+    ]
+}
